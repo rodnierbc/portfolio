@@ -1,0 +1,26 @@
+.page-header{
+  float:left;
+}
+.jumbotron{
+  background-color: #001f3f;
+}
+.main-title{
+  color: white;
+}
+.important{
+  font-weight: bold;
+  font-style: italic;
+  color: #0066cc
+}
+h3,h4,h5{
+  font-weight: bold;
+}
+.jumbotron{
+  padding-right: 0px;
+  padding-left: 30px;
+}
+.my-table-style table{
+  background: #f2f2f2;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
